@@ -1,6 +1,6 @@
 # datafun-07-ml-predictive
-Priyanka Gorentla created on 02/24/2023
-Data Analytics Project 7
+Priyanka Gorentla created on 02/24/2023 </br>
+Data Analytics Project 7 </br>
 In Module 7 I will work on- </br>
 .Describing time series data. </br>
 .Ingesting time series data.  </br>
